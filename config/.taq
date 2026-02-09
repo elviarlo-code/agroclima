@@ -1,0 +1,29 @@
+{
+	"central" 	: {	
+			"bd"	: "riteccom_agroinversionesolmos",
+			"user"	: "riteccom_olmos", 
+			"pass"	: "2XW7ExuJohkg",
+			"server": "localhost",
+			"remote": 0,
+			"remote_server": "localhost",
+			"display_errors" : 1
+		},
+	"local" 	: {
+			"user": "riteccom_olmos",
+			"pass"	 : "2XW7ExuJohkg",
+			"server" : "localhost",
+			"display_errors": 1
+	},
+	"mail"		: {
+			"SMTPAuth"	: true,
+			"SMTPSecure": "ssl",
+			"Host" 		: "smtp.gmail.com",
+			"Port"		: 465,
+			"Username"	: "mail@ritec.com",
+			"Password"	: "M42390214",
+			"From"		: "mail@ritec.com",
+			"From2"		: "Sistemas",
+			"Subject"	: "MENSAJE DE SISTEMA"
+	}	
+
+}
